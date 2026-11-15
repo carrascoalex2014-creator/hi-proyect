@@ -144,6 +144,7 @@ levelup SPECIES_CHARIZARD
     learnset MOVE_SLASH, 31
     learnset MOVE_FLAME_BURST, 32
     learnset MOVE_FLAMETHROWER, 37
+    learnset MOVE_BRILLO_SOLAR, 44
     learnset MOVE_FIRE_SPIN, 50
     learnset MOVE_INFERNO, 57
     learnset MOVE_FLARE_BLITZ, 69
@@ -4395,6 +4396,7 @@ levelup SPECIES_SUNFLORA
     learnset MOVE_BULLET_SEED, 25
     learnset MOVE_PETAL_DANCE, 28
     learnset MOVE_NATURAL_GIFT, 31
+    learnset MOVE_BRILLO_SOLAR, 31
     learnset MOVE_SOLAR_BEAM, 34
     learnset MOVE_DOUBLE_EDGE, 37
     learnset MOVE_SUNNY_DAY, 40
@@ -5713,6 +5715,7 @@ levelup SPECIES_HO_OH
     learnset MOVE_EXTRASENSORY, 29
     learnset MOVE_SAFEGUARD, 39
     learnset MOVE_SUNNY_DAY, 47
+    learnset MOVE_BRILLO_SOLAR, 47
     learnset MOVE_SACRED_FIRE, 48
     learnset MOVE_PUNISHMENT, 50
     learnset MOVE_FIRE_BLAST, 55
@@ -7775,6 +7778,7 @@ levelup SPECIES_SOLROCK
     learnset MOVE_ZEN_HEADBUTT, 20
     learnset MOVE_COSMIC_POWER, 25
     learnset MOVE_PSYCHIC, 29
+    learnset MOVE_BRILLO_SOLAR, 30
     learnset MOVE_HEAL_BLOCK, 33
     learnset MOVE_STONE_EDGE, 35
     learnset MOVE_SOLAR_BEAM, 40
@@ -14997,6 +15001,7 @@ levelup SPECIES_VOLCARONA
     learnset MOVE_FIRE_SPIN, 30
     learnset MOVE_LEECH_LIFE, 36
     learnset MOVE_WHIRLWIND, 40
+    learnset MOVE_BRILLO_SOLAR, 45
     learnset MOVE_SILVER_WIND, 50
     learnset MOVE_HEAT_WAVE, 53
     learnset MOVE_AMNESIA, 54
