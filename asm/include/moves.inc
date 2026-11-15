@@ -951,9 +951,7 @@
 
 
 // update this number yourself manually
-.equ MOVE_BRILLO_SOLAR, 923 // ataque nuevo (NUM_OF_CANONICAL_MOVES + 0)
-
-.equ NUM_OF_CUSTOM_MOVES, 1
+.equ NUM_OF_CUSTOM_MOVES, 0
 
 .equ NUM_OF_MOVES, (NUM_OF_CANONICAL_MOVES + NUM_OF_CUSTOM_MOVES)
 

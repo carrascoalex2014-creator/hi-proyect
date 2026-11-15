@@ -14779,27 +14779,6 @@ movedata MOVE_MALIGNANT_CHAIN, "Malignant Chain"
     terminatedata
     movedescription MOVE_MALIGNANT_CHAIN, "---"
 
-// ---------------------------------------------------------------
-// BRILLO SOLAR - ataque nuevo creado para este proyecto
-// Fuego / Especial / 80 de poder / 100 de precision / 10 PP
-// 30% de bajar la precision del rival (lo deslumbra)
-// ---------------------------------------------------------------
-movedata MOVE_BRILLO_SOLAR, "Brillo Solar"
-    battleeffect MOVE_EFFECT_LOWER_ACCURACY_HIT
-    pss SPLIT_SPECIAL
-    basepower 80
-    type TYPE_FIRE
-    accuracy 100
-    pp 10
-    effectchance 30
-    target RANGE_SINGLE_TARGET
-    priority 0
-    flags FLAG_KEEP_HP_BAR | FLAG_PROTECT | FLAG_MIRROR_MOVE | FLAG_KINGS_ROCK
-    appeal 0x10
-    contesttype CONTEST_BEAUTY
-    terminatedata
-    movedescription MOVE_BRILLO_SOLAR, "The user shines with\nthe light of the sun.\nIt may also lower\nthe target’s accuracy."
-
 movedatanoname NUM_OF_MOVES
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_SPECIAL
